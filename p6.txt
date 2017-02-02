@@ -1,0 +1,3366 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="es" id="vbulletin_html">
+<head>
+
+<meta name="title" content=">Foro de Derecho Civil General"/>
+<meta property="og:title" content=">Foro de Derecho Civil General"/>
+<meta name="DC.title" lang="es_ES" content=">Foro de Derecho Civil General" />
+<meta property="og:title" content=">Foro de Derecho Civil General" />
+
+<meta name="DC.subject" lang="es_ES" content="El gran derecho privado. Contratos, usufructos, herencias, etc..." />
+<meta name="DC.description" lang="es-ES" content="El gran derecho privado. Contratos, usufructos, herencias, etc..." />
+<meta property="og:description" content="El gran derecho privado. Contratos, usufructos, herencias, etc..." />
+
+
+<link rel="canonical" href="http://foros.derecho.com/foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600" />
+<meta name="DC.identifier" scheme="DCTERMS.URI" content="http://foros.derecho.com/foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600&amp;sort=title&amp;order=asc" />
+<meta property="og:url" content="http://foros.derecho.com/foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600&amp;sort=title&amp;order=asc" />
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://foros.derecho.com" />
+<base href="http://foros.derecho.com/" /><!--[if IE]></base><![endif]-->
+<meta name="robots"   content="all" />
+<meta name="expires" content="never" />
+<meta name="distribution"  content="global" />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" type="text/plain" />
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" type="text/plain" />
+<meta name="DC.creator" content="foros.derecho.com" />
+
+<meta name="generator" content="vBulletin 4.2.0" />
+<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text" />
+<meta name="DC.format" content="text/html" />
+<meta name="DC.language" scheme="DCTERMS.URI" content="es_ES" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="foros.derecho.com" />
+
+
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/main-rollup.css?d=1463559429" />
+        
+
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/popupmenu-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/vbulletin-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/vbulletin-chrome-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/vbulletin-formcontrols-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/editor-ie.css?d=1463559429" />
+	<![endif]-->
+
+
+<link href="http://r.derecho.com.es/_css/estilos.css" rel="stylesheet" type="text/css">
+<link href="http://r.derecho.com.es/_css/thickbox.css" rel="stylesheet" type="text/css">
+<link media="print" href="http://r.derecho.com.es/_css/styles_print.css" rel="stylesheet" type="text/css"> 
+<link href="http://purl.org/metadata/dublin_core_elements" rel="schema.dc">
+<link type="text/css" rel="stylesheet" href="var/generador/styles_header_footer.css" />
+
+
+
+	<meta name="keywords" content="Derecho Civil General, Foros, derecho, legal" />
+	<meta name="description" content="El gran derecho privado. Contratos, usufructos, herencias, etc..." />
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=420"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=420"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=67590f2e1195d517622b99a770374600&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/misc";
+	var IMGDIR_BUTTON = "images/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "420";
+	var BBURL = "http://foros.derecho.com";
+	var LOGGEDIN = 0 > 0 ? true : false;
+// -->
+
+</script>
+
+
+<script type="text/javascript" src="http://foros.derecho.com/clientscript/vbulletin-core.js?v=420"></script>
+
+
+
+
+
+
+
+
+
+
+
+<script src="var/generador/modernizr.js" type="text/javascript"></script>
+<script type="text/javascript" src="var/generador/toolsDerecho.js"><\/script>
+
+
+
+
+	<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+
+<script type="text/javascript" src="http://foros.derecho.com/clientscript/vbulletin_facebook.js?v=420"></script>
+
+<script type="text/javascript">
+	<!--
+		var FB_APIKEY = "";
+		var FB_RECEIVER = ""
+	// -->
+	</script>
+
+
+	<title>Foro de Derecho Civil General - Foros de derecho.com </title>
+	
+	<script type="text/javascript" src="clientscript/vbulletin_read_marker.js?v=420"></script>
+	
+	
+		<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/forumdisplay-rollup.css?d=1463559429" />
+	
+
+	<!--[if lt IE 8]>
+	<script type="text/javascript" src="clientscript/vbulletin-threadlist-ie.js?v=420"></script>
+		<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/toolsmenu-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/forumbits-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/forumdisplay-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/threadlist-ie.css?d=1463559429" />
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/options-ie.css?d=1463559429" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00001l/additional.css?d=1463559429" />
+
+</head>
+
+<body>
+
+<!--nose que es esto pero es debeza derecho -->
+<div id="bderecha">
+<!-- DER-Foros-Superior-IZQ-120x600 -->
+<div id='div-gpt-ad-1331030587669-0' style='width:120px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1331030587669-0'); });
+</script>
+</div>
+</div>
+
+<div id="wrapper">
+<div id="intro">
+<input id="origen" name="origen" value="" type="hidden">
+<!-- inicio cabecera derecho.com --><noscript>
+    <div class="noscript">
+        <div class="noscript-inner">
+            <p><strong>JavaScript parece desactivado en su navegador.</strong></p>
+            <p>Debería tener el JavaScript activado en su navegador para utilizar la funcionalidad de este website.</p>
+        </div>
+    </div>
+</noscript>
+<header id="header">
+	<nav>
+		<a name="home"></a>
+		<ul id="menu">
+			<li>
+				<a title="Derecho.com" href="http://www.derecho.com" id="inicio">Home</a>
+			</li>
+
+			<li class="hassubmenu">
+				<a title="Empresas y Pymes" href="http://tienda.derecho.com/tramites-online">Empresas y Pymes</a>
+				<div class="submenu">
+					<a class="specP" title="Registro de la Propiedad" href="http://registropropiedad.derecho.com/">Registro de la Propiedad</a>
+
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/nota-simple.html" title="Notas simples">Notas simples</a>
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Propiedades de alguien">Propiedades de alguien</a>
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/nota-negativa-propiedades.html" title="Nota negativa de propiedades">Nota negativa de propiedades</a>
+
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Quién es el propietario">Quién es el propietario</a>
+					<a class="spec" href="http://www.derecho.com/registro-propiedad/valoracion-de-inmuebles" title="Valoración de Inmuebles">Valoración de inmuebles</a>
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/cancelacion-de-hipoteca.html" title="Cancelación de hipoteca">Cancelación de hipoteca</a>
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/localizacion-propiedades.html" title="Localización de propiedades">Localización de propiedades</a>
+
+					<a class="specP" href="http://www.derecho.com/registro-marcas.html" title="Registro de marcas">Registro de marcas</a>
+					<a class="spec" href="http://www.derecho.com/registro-marcas/marca-nacional.html" title="Marca nacional">Marca nacional</a>
+					<a class="spec" href="http://www.derecho.com/registro-marcas/marca-comunitaria.html" title="Marca comunitaria">Marca comunitaria</a>
+					<a class="spec" href="http://www.derecho.com/registro-marcas/informe-previo-de-marca.html" title="Informe previo de marca">Informe previo de marca</a>
+					<a class="spec" href="http://www.derecho.com/registro-marcas/renovacion-de-marca.html" title="Renovación de marca">Renovación de marca</a>
+
+					<a class="specP" href="http://registromercantil.derecho.com/" title="Registro Mercantil">Registro Mercantil</a>
+					<a class="spec" href="http://registromercantil.derecho.com/tienda/informe-de-riesgo-y-deudas.html" title="Informe de riesgo y deudas">Informe de riesgo y deudas</a>
+					<a class="spec" href="http://registromercantil.derecho.com/tienda/cuentas-anuales.html" title="Balance y cuenta de resultados">Balance y cuenta de resultados</a>
+					<a class="spec" href="http://registromercantil.derecho.com/tienda/prediccion-y-calificacion-de-credito.html" title="Predicción y calificación de crédito">Predicción y calificación de crédito</a>
+					<a class="spec" href="http://registromercantil.derecho.com/tienda/informe-mercantil-e-incidencias.html" title="Informe mercantil e incidencias">Informe mercantil e incidencias</a>
+					<a class="spec" href="http://registromercantil.derecho.com/tienda/informe-de-riesgo-sobre-autonomos.html" title="Informe de riesgo sobre autónomos">Informe de riesgo sobre autónomos</a>
+					<a class="spec" href="http://registromercantil.derecho.com/tienda/seguimiento-empresa-registro-mercantil.html" title="Seguimiento de empresa">Seguimiento de empresa</a>
+
+					<a class="specP" href="http://www.derecho.com/dgt-direccion-general-trafico.html" title="DGT - Dirección General de Tráfico">DGT - Dirección General de Tráfico</a>								
+					<a class="spec" href="http://www.derecho.com/dgt/informe-de-vehiculo-por-matricula.html" title="Informe de vehículo por matrícula">Informe de vehículo por matrícula</a>
+					
+
+					<a class="specP" href="http://www.derecho.com/proteccion-de-datos.html" title="Protección de datos personales">Protección de datos personales</a>
+					<a class="spec" href="http://www.derecho.com/proteccion-datos/adaptacion-lopd.html" title="Adaptación LOPD">Adaptación LOPD</a>
+					<a class="spec" href="http://www.derecho.com/proteccion-datos/auditoria-lopd.html" title="Auditoría LOPD">Auditoría LOPD</a>
+					<a class="spec" href="http://www.derecho.com/proteccion-datos/asesoramiento-juridico-recurrente.html" title="Asesoramiento jurídico recurrente">Asesoramiento jurídico recurrente</a>
+					<a class="spec" href="http://www.derecho.com/proteccion-datos/asistencia-a-inspecciones.html" title="Asistencia a inspecciones">Asistencia a inspecciones</a>
+
+					<a class="specP" href="http://www.derecho.com/suscripciones-y-alertas.html" title="Suscripciones">Suscripciones</a>
+					
+					<a class="spec" href="http://www.derecho.com/ventas/Boletines.do" title="Boletines oficiales">Boletines oficiales</a>
+					
+
+					<a class="specP" href="http://www.derecho.com/otros-servicios.html" title="Otros Servicios">Otros servicios</a>
+					<a class="spec" href="http://www.derecho.com/contratos/" title="Modelos de contratos">Modelos de contratos</a>
+					<a class="spec" href="http://www.derecho.com/otros-servicios/legalizacion-de-sorteos-o-promociones.html" title="Legalización de sorteos o promociones">Legalización de sorteos o promociones</a>
+					<a class="spec" href="http://www.derecho.com/otros-servicios/auditoria-legal-de-pagina-web.html" title="Auditoría legal de página web">Auditoría legal de página web</a>
+					<a class="spec" href="http://www.derecho.com/otros-servicios/avisos-legales-de-pagina-web.html" title="Avisos legales de página web">Avisos legales de página web</a>
+
+				</div>
+			</li>
+
+			<li class="hassubmenu">
+				<a href="http://www.derecho.com/particulares-y-familias.html" title="Particulares y familias">Particulares y familias</a>
+				<div class="submenu">
+					<a class="specP" href="http://registropropiedad.derecho.com/tienda/" title="Registro de la Propiedad">Registro de la Propiedad</a>
+
+
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/nota-simple.html" title="Notas simples">Notas simples</a>
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Propiedades de alguien">Propiedades de alguien</a>
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/nota-negativa-propiedades.html" title="Nota negativa de propiedades">Nota negativa de propiedades</a>
+
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/notas-simples-de-una-persona.html" title="Quién es el propietario">Quién es el propietario</a>
+					<a class="spec" href="http://www.derecho.com/registro-propiedad/valoracion-de-inmuebles" title="Valoración de Inmuebles">Valoración de inmuebles</a>
+					<a class="spec" href="http://registropropiedad.derecho.com/tienda/cancelacion-de-hipoteca.html" title="Cancelación de hipoteca">Cancelación de hipoteca</a>
+
+
+
+					
+					<a class="specP" href="http://www.derecho.com/dgt-direccion-general-trafico.html" title="DGT - Dirección General de Tráfico">DGT - Dirección General de Tráfico</a>
+					<a class="spec" href="http://www.derecho.com/dgt/informe-de-vehiculo-por-matricula.html" title="Informe de vehículo por matrícula">Informe de vehículo por matrícula</a>
+					
+					
+					<a class="specP" href="http://www.derecho.com/registro-civil.html" title="Registro Civil">Registro Civil</a>
+					<a class="spec" href="http://www.derecho.com/registro-civil/certificado-de-nacimiento.html" title="Certificado de nacimiento">Certificado de nacimiento</a>
+					<a class="spec" href="http://www.derecho.com/registro-civil/certificado-de-defuncion.html" title="Certificado de defunción">Certificado de defunción</a>
+					<a class="spec" href="http://www.derecho.com/registro-civil/certificado-de-matrimonio.html" title="Certificado de matrimonio">Certificado de matrimonio</a>
+
+					<a class="specP" href="http://www.derecho.com/proteccion-de-datos.html" title="Protección de datos personales">Protección de datos personales</a>
+					<a class="spec" href="http://www.derecho.com/proteccion-datos/eliminar-tu-nombre-en-una-web.html" title="Eliminar tu nombre en una web">Eliminar tu nombre en una web</a>
+					<a class="spec" href="http://www.derecho.com/proteccion-datos/ejercicio-derechos-de-proteccion-de-datos.html" title="Ejercicio derechos de protección de datos">Ejercicio derechos de protección de datos</a>
+
+					<a class="specP" href="http://www.derecho.com/testamentos.html" title="Testamentos">Testamentos</a>
+					<a class="spec" href="http://www.derecho.com/testamentos/testamento-online.html" title="Testamento online">Testamento online</a>
+					<a class="spec" href="http://www.derecho.com/testamentos/certificado-de-ultimas-voluntades.html" title="Certificado de Últimas Voluntades">Certificado de Últimas Voluntades</a>
+					<a class="spec" href="http://www.derecho.com/registro-propiedad/que-propiedades-tenia-el-difunto.html" title="Qué propiedades tenía el difunto">Qué propiedades tenía el difunto</a>
+
+			
+
+					<a class="specP" href="http://www.derecho.com/otros-servicios.html">Otros servicios</a>
+					<a class="spec" href="http://www.derecho.com/c/" title="Conceptos jurídicos">Conceptos jurídicos</a>
+					<a class="spec" href="http://www.derecho.com/contratos/" title="Modelos de contratos">Modelos de contratos</a>
+					<a class="spec" href="http://www.derecho.com/otros-servicios/valor-catastral.html" title="Valor Catastral">Valor Catastral</a>
+				</div>
+			</li>
+
+			<li class="hassubmenu">
+				<a href="http://www.derecho.com/documentos-informacion.html" title="Documentos/Información">Documentos/Información</a>
+				<div class="submenu">
+					<a class="specP" href="http://legislacion.derecho.com" title="Legislación">Legislación</a>
+					<a class="spec" href="http://legislacion.derecho.com" title="Legislación española">Legislación española</a>
+					<a class="spec" href="http://www.derecho.com/legislacion/boe" title="BOE">BOE</a>
+					<a class="spec" href="http://www.derecho.com/legislacion/boe/anteriores" title="BOE anteriores">BOE anteriores</a>
+
+<a class="spec" href="http://www.derecho.com/xml/boletines_oficiales/boletines.xml" title="Otros boletines oficiales">Otros boletines oficiales</a>
+					<a class="spec" href="http://www.derecho.com/legislacion/doue/" title="DOUE">DOUE</a>
+
+					<a class="specP" href="http://www.derecho.com/c" title="Conceptos jurídicos">Conceptos jurídicos</a>
+					<a class="spec" href="http://www.derecho.com/c/" title="Conceptos jurídicos">Conceptos jurídicos</a>
+
+					<a class="specP" href="http://www.derecho.com/contratos/" title="Contratos">Contratos</a>
+					<a class="spec" href="http://tienda.derecho.com/contratos/civil" title="Contratos civiles">Contratos civiles</a>
+					<a class="spec" href="http://tienda.derecho.com/contratos/laboral" title="Contratos laborales">Contratos laborales</a>
+					<a class="spec" href="http://tienda.derecho.com/contratos/mercantil" title="Contratos mercantiles">Contratos mercantiles</a>
+					<a class="spec" href="http://tienda.derecho.com/contratos/nuevas-tecnologias" title="Contratos nuevas tecnologías">Contratos nuevas tecnologías</a>
+					<a class="spec" href="http://www.derecho.com/contratos" title="Más contratos">Más contratos</a>
+
+					<a class="specP" href="http://www.derecho.com/suscripciones-y-alertas.html" title="Suscripciones">Suscripciones</a>
+
+					<a class="spec" href="http://www.derecho.com/ventas/Boletines.do" title="Boletines oficiales">Boletines oficiales</a>
+
+
+
+					<a class="specP" href="http://www.derecho.com/articulos/" title="Artículos Jurídicos">Artículos jurídicos</a>
+					<a class="spec" href="http://www.derecho.com/articulos/" title="Artículos jurídicos">Artículos jurídicos</a>
+					
+					<a class="specP" href="http://foros.derecho.com/forum.php" title="foros">Foros</a>
+					<a class="spec" href="http://foros.derecho.com/forum.php" title="Foros de derecho">Foros de derecho</a>
+				</div>
+			</li>
+		</ul>
+		<div id="right_menu">
+			<ul id="login">
+				<li id="atencionP">
+					<a id="atencion" class="moving" title="Atención al cliente" href="http://www.derecho.com/xml/atencion.xml">Atención al cliente</a>
+				</li>
+				<!-- <li>
+					<a title="Regístrate" href="http://tienda.derecho.com/customer/account/create/" rel="nofollow">Regístrate</a>
+				</li> -->
+				<!-- <li>
+					<a title="Entrar" href="http://tienda.derecho.com/customer/account/login/" rel="nofollow">Entrar</a>
+				</li> -->
+			</ul>
+			<div id="options">
+				<ul>
+					<li><a title="Pedidos y Facturas" href="https://tienda.derecho.com/sales/order/history/">Pedidos y Facturas</a></li>
+					<li><a title="Datos de usuario" href="http://tienda.derecho.com/customer/account/" rel="nofollow">Datos de usuario</a></li>
+					<li><a title="Mis Leyes" class="myLawsSpec" rel="nofollow" href="https://legislacion.derecho.com/myaccount.php">Mis Leyes</a></li>
+					<li><a title="Ebooks/Contratos" href="https://tienda.derecho.com/downloadable/customer/products/" rel="nofollow">Ebooks/Contratos</a></li>
+					<li><a title="Sentencias" href="https://sentencias.derecho.com/usuario" rel="nofollow">Sentencias</a></li>
+					<li><a title="Concursos" href="http://www.derecho.com/ventas/ConcursosLogin.do" rel="nofollow">Concursos</a></li>
+										<li><a title="Mis Alertas" href="http://www.derecho.com/xml/configuracion.xml" rel="nofollow">Mis Alertas</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div id="search_bar">
+		<h2 style="margin: 15px 0 15px 15px;"><a title="Derecho.com" href="http://www.derecho.com"><img alt="Derecho.com" src="http://www.derecho.com/_img/images/derecho-com.png" /></a></h2>
+		<section id="sectionbuscador">
+		<form id="cse-search-box" class="mx" action="#" method="post">
+		<input type="hidden" name="cx" value="partner-pub-0569059116195258:5l3lqa-46f2" />
+		<input type="hidden" name="cof" value="FORID:11" />
+		<input type="hidden" name="siteurl" value="www.derecho.com/" />
+		<input type="hidden" name="ie" value="utf-8" id="ie" />
+		<input type="text" name="q" id="q" placeholder="Búsqueda personalizada" />
+		<select id="buscador_opciones" name="buscador_opciones">
+	<option value="1">Derecho.com</option>
+	<option value="2">Legislación</option>
+	<option value="3">Tienda</option>
+	<option value="5" selected="selected">Foros</option>
+		<option value="7">Artículos</option>
+	<option value="8">Contratos</option>
+	<option value="9">Libros</option>
+			<option value="12">Boletines oficiales</option>
+</select>				<div>
+			<input type="submit" name="sa" value="Buscar" id="search_button" />
+		</div>
+			</form>
+</section>	</div>
+</header>
+<!-- fin cabecera derecho.com -->
+</div>
+<div xml:space="preserve" id="mainContent">
+
+<link href="cpstyles/new.css" rel="stylesheet" type="text/css">
+
+
+<div id="title" class="hide">Derecho.com Productos y Servicios Jur&iacute;dicos: Contratos Libros Legislaci&oacute;n</div>
+
+
+
+<div class="homeWrapper">
+
+
+<div id="breadcrumbs">
+
+</div>
+
+
+
+</div>
+
+
+
+
+
+<!--Fin  de menu contextual  --> 
+
+<div class="above_body"> <!-- closing tag is in template navbar -->
+<div id="header1" class="floatcontainer doc_header1">
+	<!--<div><a name="top" href="forum.php?s=67590f2e1195d517622b99a770374600" class="logo-image"><img src="images/misc/vbulletin4_logo.png" alt="Foros Derecho.com - Desarrollado por vBulletin" /></a></div>-->
+	<div id="toplinks" class="toplinks">
+		
+			<ul class="nouser">
+			
+				<li><a href="register.php?s=67590f2e1195d517622b99a770374600" rel="nofollow">Registrarse</a></li>
+			
+				<li><a rel="help" href="faq.php?s=67590f2e1195d517622b99a770374600">Ayuda</a></li>
+				<li>
+			<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=420"></script>
+			<form id="navbar_loginform" action="login.php?s=67590f2e1195d517622b99a770374600&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+				<fieldset id="logindetails" class="logindetails">
+					<div>
+						<div>
+					<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Usuario" />
+					<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+					<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Contraseña" style="display:none;" />
+					<input type="submit" class="loginbutton" tabindex="104" value="Iniciar sesión" title="Escribe tu nombre de usuario y contraseña en los campos para iniciar la sesión, o pulsa el botón 'registrarse' para crearte un perfil." accesskey="s" />
+						</div>
+					</div>
+				</fieldset>
+				<div id="remember" class="remember">
+					<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> ¿Recordarme?</label>
+				</div>
+
+				<input type="hidden" name="s" value="67590f2e1195d517622b99a770374600" />
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="login" />
+				<input type="hidden" name="vb_login_md5password" />
+				<input type="hidden" name="vb_login_md5password_utf" />
+			</form>
+			<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'Usuario')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='Usuario';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+				</li>
+				
+					<li id="fb_headerbox" class="hidden">
+
+	<a id="fb_loginbtn" href="#"><img src="images/misc/facebook_login.gif" alt="La Plataforma Facebook" /></a>
+
+</li>
+
+				
+			</ul>
+		
+	</div>
+	<div class="ad_global_header">
+		
+		 
+	</div>
+	<hr />
+</div>
+
+<div id="navbar" class="navbar">
+	<ul id="navtabs" class="navtabs floatcontainer">
+		
+		
+	<li class="selected" id="vbtab_forum">
+		<a class="navtab" href="forum.php?s=67590f2e1195d517622b99a770374600">Foro</a>
+		
+			<ul class="floatcontainer">
+				
+					
+						
+							<li id="vbflink_bbmenu"><a href="forum.php?s=67590f2e1195d517622b99a770374600">Inicio del foro</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_newposts"><a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=getnew&contenttype=vBForum_Post">Nuevos mensajes</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_faq"><a href="faq.php?s=67590f2e1195d517622b99a770374600">Ayuda</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_calendar"><a href="calendar.php?s=67590f2e1195d517622b99a770374600">Calendario</a></li>
+						
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_community">
+							<a href="javascript://" class="popupctrl">Comunidad</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbclink_members"><a href="memberlist.php?s=67590f2e1195d517622b99a770374600">Lista de miembros</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_actions">
+							<a href="javascript://" class="popupctrl">Acciones del foro</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbalink_mfr"><a href="forumdisplay.php?s=67590f2e1195d517622b99a770374600&amp;do=markread&markreadhash=guest">Marcar foros como leídos</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_qlinks">
+							<a href="javascript://" class="popupctrl">Enlaces rápidos</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbqlink_posts"><a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=getdaily&contenttype=vBForum_Post">Mensajes de hoy</a></li>
+								
+								
+							</ul>
+						</li>
+					
+				
+				
+			</ul>
+		
+	</li>
+
+		
+	</ul>
+	
+		<div id="globalsearch" class="globalsearch">
+			<form action="search.php?s=67590f2e1195d517622b99a770374600&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+				
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+				<span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span>
+				<span class="buttoncontainer"><span><input type="image" class="searchbutton" src="images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span>
+			</form>
+			<ul class="navbar_advanced_search">
+				<li><a href="search.php?s=67590f2e1195d517622b99a770374600" accesskey="4">Búsqueda avanzada</a></li>
+				
+			</ul>
+		</div>
+	
+</div>
+</div><!-- closing div for above_body -->
+
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=67590f2e1195d517622b99a770374600" accesskey="1"><img src="images/misc/navbit-home.png" alt="Inicio" /></a></li>
+		
+   
+	<li class="navbit"><a title="Foros" href="forum.php?s=67590f2e1195d517622b99a770374600">Foros</a></li>
+    
+
+   
+        <li class="navbit"><a title="Foro Derecho Civil" href="foro/5-Derecho-Civil?s=67590f2e1195d517622b99a770374600">Foro Derecho Civil</a></li>
+    
+
+		
+   
+		
+			<li class="navbit lastnavbit"><span title="Foro Derecho Civil General">Foro Derecho Civil General</span></li>
+			
+    
+
+	</ul>
+	<hr />
+</div>
+
+ 
+<script src='http://ww264.smartadserver.com/config.js?nwid=264' type="text/javascript"></script>
+<script type="text/javascript">
+    sas.setup({ domain: 'http://ww264.smartadserver.com', async: true, renderMode: 0});
+	//  renderMode define when ads must be rendered :
+	//  	- DEFAULT		(0) : as soon as ad is ready
+	//  	- READY			(1) : render ads when document is ready
+	//  - ON_DEMAND		(2) : user must call sas.callAds()
+</script>
+<script type="text/javascript">
+	sas.call("std", {
+		siteId:		14072,	// 
+		pageId:		101831,	// Página : Derecho/others
+		formatId: 	3852,	// Formato : 120x600 120x600
+		target:		''	// Segmentación
+	});
+</script>
+<noscript>
+	<a href="http://ww264.smartadserver.com/ac?jump=1&nwid=264&siteid=14072&pgname=others&fmtid=3852&visit=m&tmstp=[timestamp]&out=nonrich" target="_blank">                
+		<img src="http://ww264.smartadserver.com/ac?out=nonrich&nwid=264&siteid=14072&pgname=others&fmtid=3852&visit=m&tmstp=[timestamp]" border="0" alt="" /></a>
+</noscript>
+
+
+
+
+
+
+
+<div id="above_threadlist" class="above_threadlist">
+<a href="newthread.php?s=67590f2e1195d517622b99a770374600&amp;do=newthread&amp;f=20" rel="nofollow" class="newcontent_textcontrol" id="newthreadlink_top"><span>+</span> Crear nuevo tema</a>
+	
+	<div class="threadpagenav">
+		<form action="foro/20-Derecho-Civil-General/page11?s=67590f2e1195d517622b99a770374600" method="get" class="pagination popupmenu nohovermenu">
+<input type="hidden" name="f" value="20" /><input type="hidden" name="s" value="67590f2e1195d517622b99a770374600" />
+	
+		<span><a href="javascript://" class="popupctrl">Página 1 de 341</a></span>
+		
+		
+		
+		<span class="selected"><a href="javascript://" title="Resultados 1 al 20 de 6,819">1</a></span><span><a href="foro/20-Derecho-Civil-General/page2?s=67590f2e1195d517622b99a770374600" title="Mostrar resultados del 21 al 40 de 6,819">2</a></span><span><a href="foro/20-Derecho-Civil-General/page3?s=67590f2e1195d517622b99a770374600" title="Mostrar resultados del 41 al 60 de 6,819">3</a></span><span><a href="foro/20-Derecho-Civil-General/page11?s=67590f2e1195d517622b99a770374600" title="Mostrar resultados del 201 al 220 de 6,819"><!--+10-->11</a></span>
+		
+		<span class="separator">...</span>
+		
+		
+		<span class="prev_next"><a rel="next" href="foro/20-Derecho-Civil-General/page2?s=67590f2e1195d517622b99a770374600" title="Siguiente página - Resultados del 21 al 40 de 6,819"><img src="images/pagination/next-right.png" alt="Siguiente" /></a></span>
+		
+		
+		<span class="first_last"><a href="foro/20-Derecho-Civil-General/page341?s=67590f2e1195d517622b99a770374600" title="Última página - Resultados del 6,801 al 6,819 de 6,819">Último<img src="images/pagination/last-right.png" alt="Último" /></a></span>
+		
+	
+	<ul class="popupbody popuphover">
+		<li class="formsubmit jumptopage"><label>Saltar a página: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value=" Ir " /></li>
+	</ul>
+</form>
+		<div id="threadpagestats" class="threadpagestats">Temas del 1 al 20 de 6819</div>
+	</div>
+	
+</div>
+<div id="pagetitle" class="pagetitle" style="width:500px;float:left">
+	<h1><span class="forumtitle">Foro Derecho Civil General</span></h1>
+	<p class="description">El gran derecho privado. Contratos, usufructos, herencias, etc...</p>
+</div>
+
+
+
+
+	
+	<div id="above_threadlist_controls" class="above_threadlist_controls toolsmenu">
+		<div>
+		<ul class="popupgroup forumdisplaypopups" id="forumdisplaypopups">
+			<li class="popupmenu nohovermenu" id="forumtools">
+				<h6><a href="javascript://" class="popupctrl" rel="nofollow">Herramientas de foro</a></h6>
+				<ul class="popupbody popuphover">
+					
+						<li>
+							<a href="forumdisplay.php?s=67590f2e1195d517622b99a770374600&amp;do=markread&amp;f=20&amp;markreadhash=guest" rel="nofollow" onclick="return mark_forum_and_threads_read(20);">
+								Marcar foro como leído
+							</a>
+						</li>
+						
+					<li><a href="foro/5-Derecho-Civil?s=67590f2e1195d517622b99a770374600" rel="nofollow">Ver foro primario</a></li>
+				</ul>
+			</li>
+                        
+			<li class="popupmenu nohovermenu forumsearch menusearch" id="forumsearch">
+				<h6><a href="javascript://" class="popupctrl">Buscar en el foro</a></h6>
+				<form action="search.php?do=process" method="get">
+				<ul class="popupbody popuphover">
+					<li>
+						<input type="text" class="searchbox" name="q" value="Buscar..." />
+						<input type="submit" class="button" value="Buscar" />
+					</li>
+					<li class="formsubmit" id="popupsearch">
+						<div class="submitoptions">
+							<label><input type="radio" name="showposts" value="0" checked="checked" /> Mostrar temas</label>
+							<label><input type="radio" name="showposts" value="1" /> Mostrar mensajes</label>
+						</div>
+						<div class="advancedsearchlink"><a href="search.php?s=67590f2e1195d517622b99a770374600&amp;search_type=1&amp;contenttype=vBForum_Post&amp;forumchoice[]=20" rel="nofollow">Búsqueda avanzada</a></div>
+
+					</li>
+				</ul>
+				<input type="hidden" name="s" value="67590f2e1195d517622b99a770374600" />
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+				<input type="hidden" name="contenttype" value="vBForum_Post" />
+				<input type="hidden" name="forumchoice[]" value="20" />
+				<input type="hidden" name="childforums" value="1" />
+				<input type="hidden" name="exactname" value="1" />
+				</form>
+			</li>
+			
+
+
+
+		</ul>
+			
+		</div>
+	</div>
+	
+
+
+
+
+
+
+<div id="threadlist" class="threadlist">
+	<form id="thread_inlinemod_form" action="inlinemod.php?forumid=20" method="post">
+		<h2 class="hidden">Temas en este foro</h2>
+
+		<div>
+			<div class="threadlisthead table">
+				<div>
+				<span class="threadinfo">
+					<span class="threadtitle">
+						<a href="foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600&amp;sort=title&amp;order=asc" rel="nofollow">Título</a> /
+						<a href="foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600&amp;sort=postusername&amp;order=asc" rel="nofollow">Autor</a>
+					</span>
+				</span>
+				
+
+					<span class="threadstats td"><a href="foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600&amp;sort=replycount&amp;order=desc" rel="nofollow">Respuestas</a> / <a href="foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600&amp;sort=views&amp;order=desc" rel="nofollow">Visitas</a></span>
+					<span class="threadlastpost td"><a href="foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600&amp;sort=lastpost&amp;order=asc" rel="nofollow">Último mensaje<img class="sortarrow" src="images/buttons/sortarrow-asc.png" alt="Invertir orden de clasificación" border="0" /></a></span>
+					
+				
+				</div>
+			</div>
+
+			
+			
+				<ol id="threads" class="threads">
+					<li class="threadbit " id="thread_78285">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Buenas a todos. 
+ 
+Compré una moto nueva el 24 de octubre, la cual me dijeron estaba en stock. Ya que se me asigno el número de bastidor rápidamente....">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Reclamación a un concesionario" class="title" href="tema/78285-Reclamación-a-un-concesionario?s=67590f2e1195d517622b99a770374600" id="thread_title_78285">Reclamación a un concesionario</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70150-Miguel-Angel2?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por Miguel Angel2, el hoy 12:13">Miguel Angel2</a>,&nbsp;hoy&nbsp;12:13</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78285" onclick="who(78285); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70150-Miguel-Angel2?s=67590f2e1195d517622b99a770374600" title="Miguel Angel2 está desconectado"><strong>Miguel Angel2</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70150-Miguel-Angel2?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70150&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>hoy, <span class="time">12:13</span>
+			<a href="tema/78285-Reclamación-a-un-concesionario?s=67590f2e1195d517622b99a770374600&amp;p=163725#post163725" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit hot" id="thread_48784">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="hola a todos, 
+ 
+tengo un caso bastante bastante dificilillo y no veo muy claro el camino, os resumo 
+ 
+son 7 hermanos de las que ya solo viven tres....">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="escritura publica contra contrato privado" class="title" href="tema/48784-escritura-publica-contra-contrato-privado?s=67590f2e1195d517622b99a770374600" id="thread_title_48784">escritura publica contra contrato privado</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/39424-mangaroca100?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por mangaroca100, el 04/09/2011 20:28">mangaroca100</a>,&nbsp;04/09/2011&nbsp;20:28</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=48784" onclick="who(48784); return false;" class="understate">5</a></li>
+				<li>Visitas: 1,791</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/48818-zulemero?s=67590f2e1195d517622b99a770374600" title="zulemero está desconectado"><strong>zulemero</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/48818-zulemero?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=48818&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>11/11/2016, <span class="time">04:14</span>
+			<a href="tema/48784-escritura-publica-contra-contrato-privado?s=67590f2e1195d517622b99a770374600&amp;p=163713#post163713" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78278">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="zynav starts functioning 
+to boost the size of the penis. This dual functional supplement helps in the 
+overall betterment of the life. It increases...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="http://www.shaperich.com/zynev-reviews/" class="title" href="tema/78278-http-www-shaperich-com-zynev-reviews?s=67590f2e1195d517622b99a770374600" id="thread_title_78278">http://www.shaperich.com/zynev-reviews/</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por chaely14543, el 07/11/2016 08:37">chaely14543</a>,&nbsp;07/11/2016&nbsp;08:37</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78278" onclick="who(78278); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" title="chaely14543 está desconectado"><strong>chaely14543</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70139&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>07/11/2016, <span class="time">08:37</span>
+			<a href="tema/78278-http-www-shaperich-com-zynev-reviews?s=67590f2e1195d517622b99a770374600&amp;p=163708#post163708" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78277">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Maca Root Extract is one of the most sex boosting ingredients, 
+and you can find in it. It overcomes the frustration from your 
+mind, which might...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="http://www.shaperich.com/maxtropin/" class="title" href="tema/78277-http-www-shaperich-com-maxtropin?s=67590f2e1195d517622b99a770374600" id="thread_title_78277">http://www.shaperich.com/maxtropin/</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por chaely14543, el 07/11/2016 08:28">chaely14543</a>,&nbsp;07/11/2016&nbsp;08:28</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78277" onclick="who(78277); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" title="chaely14543 está desconectado"><strong>chaely14543</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70139&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>07/11/2016, <span class="time">08:28</span>
+			<a href="tema/78277-http-www-shaperich-com-maxtropin?s=67590f2e1195d517622b99a770374600&amp;p=163707#post163707" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78276">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="While taking it, you will feel a great surge 
+in the sexual power as well as performance. By targeting the primary cause 
+of erectile dysfunction or...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="http://www.shaperich.com/zynev-reviews/" class="title" href="tema/78276-http-www-shaperich-com-zynev-reviews?s=67590f2e1195d517622b99a770374600" id="thread_title_78276">http://www.shaperich.com/zynev-reviews/</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por chaely14543, el 07/11/2016 08:11">chaely14543</a>,&nbsp;07/11/2016&nbsp;08:11</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78276" onclick="who(78276); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" title="chaely14543 está desconectado"><strong>chaely14543</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70139&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>07/11/2016, <span class="time">08:11</span>
+			<a href="tema/78276-http-www-shaperich-com-zynev-reviews?s=67590f2e1195d517622b99a770374600&amp;p=163706#post163706" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78275">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="zynav Male Enhancement completely all-natural way without invasive intervention and ugly emotions. Purchase therapeutic planning in a confirmed...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="http://www.shaperich.com/zynev-reviews/" class="title" href="tema/78275-http-www-shaperich-com-zynev-reviews?s=67590f2e1195d517622b99a770374600" id="thread_title_78275">http://www.shaperich.com/zynev-reviews/</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por chaely14543, el 07/11/2016 05:58">chaely14543</a>,&nbsp;07/11/2016&nbsp;05:58</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78275" onclick="who(78275); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" title="chaely14543 está desconectado"><strong>chaely14543</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70139-chaely14543?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70139&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>07/11/2016, <span class="time">05:58</span>
+			<a href="tema/78275-http-www-shaperich-com-zynev-reviews?s=67590f2e1195d517622b99a770374600&amp;p=163705#post163705" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78273">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Mi ex esposa puso demanda injusta de ejecucion forzosa sentencia obligacion pago pension manutención, alegando que le pague parcialmente la pension...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="deegacion justicia gratuita. oposicion demanda ejecucion" class="title" href="tema/78273-deegacion-justicia-gratuita-oposicion-demanda-ejecucion?s=67590f2e1195d517622b99a770374600" id="thread_title_78273">deegacion justicia gratuita. oposicion demanda ejecucion</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70129-dfergusson?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por dfergusson, el 02/11/2016 16:10">dfergusson</a>,&nbsp;02/11/2016&nbsp;16:10</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78273" onclick="who(78273); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70129-dfergusson?s=67590f2e1195d517622b99a770374600" title="dfergusson está desconectado"><strong>dfergusson</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70129-dfergusson?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70129&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>02/11/2016, <span class="time">16:10</span>
+			<a href="tema/78273-deegacion-justicia-gratuita-oposicion-demanda-ejecucion?s=67590f2e1195d517622b99a770374600&amp;p=163700#post163700" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78247">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Alguien me puede decir que derechos tiene un hijo con 20 años que decide abandonar su trabajo, revocar matricula de estudios y marcharse con su padre...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="hijo que se va de casa" class="title" href="tema/78247-hijo-que-se-va-de-casa?s=67590f2e1195d517622b99a770374600" id="thread_title_78247">hijo que se va de casa</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70065-Mayjun?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por Mayjun, el 30/09/2016 13:25">Mayjun</a>,&nbsp;30/09/2016&nbsp;13:25</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78247" onclick="who(78247); return false;" class="understate">1</a></li>
+				<li>Visitas: 2</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70125-sbodel?s=67590f2e1195d517622b99a770374600" title="sbodel está desconectado"><strong>sbodel</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70125-sbodel?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70125&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>28/10/2016, <span class="time">21:16</span>
+			<a href="tema/78247-hijo-que-se-va-de-casa?s=67590f2e1195d517622b99a770374600&amp;p=163696#post163696" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78269">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Hola queria averiguar k derechos tengo porke tengo una niña de cinco años. Reconocida por su padre pero la cuestion es que el y yo no estamos juntos,...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Por favor me urge, derecho de soltera" class="title" href="tema/78269-Por-favor-me-urge-derecho-de-soltera?s=67590f2e1195d517622b99a770374600" id="thread_title_78269">Por favor me urge, derecho de soltera</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70118-Lucia-figueroa?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por Lucia figueroa, el 26/10/2016 17:08">Lucia figueroa</a>,&nbsp;26/10/2016&nbsp;17:08</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+									<img src="images/misc/tag.png" alt="hijos, madre soltera" />
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78269" onclick="who(78269); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70118-Lucia-figueroa?s=67590f2e1195d517622b99a770374600" title="Lucia figueroa está desconectado"><strong>Lucia figueroa</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70118-Lucia-figueroa?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70118&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>26/10/2016, <span class="time">17:08</span>
+			<a href="tema/78269-Por-favor-me-urge-derecho-de-soltera?s=67590f2e1195d517622b99a770374600&amp;p=163689#post163689" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78253">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Hola buenos días! Me gustaría saber si podrían resolverme esta duda sobre el tema que expongo a continuación: 
+la empresa A tiene un contrato de obra...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Contrato de llave en mano" class="title" href="tema/78253-Contrato-de-llave-en-mano?s=67590f2e1195d517622b99a770374600" id="thread_title_78253">Contrato de llave en mano</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/70085-natalia14?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por natalia14, el 10/10/2016 13:11">natalia14</a>,&nbsp;10/10/2016&nbsp;13:11</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78253" onclick="who(78253); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70085-natalia14?s=67590f2e1195d517622b99a770374600" title="natalia14 está desconectado"><strong>natalia14</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70085-natalia14?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70085&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>10/10/2016, <span class="time">13:11</span>
+			<a href="tema/78253-Contrato-de-llave-en-mano?s=67590f2e1195d517622b99a770374600&amp;p=163654#post163654" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78229">
+	<div class="rating5 nonsticky">
+		<div class="threadinfo" title="Estimados Foreros: Alguien que me pueda decir si para impugnar un cuaderno particional hecho por Albacea Contador-Partidor. Hay que demandar a todos...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Demanda impugnación de cuaderno particional" class="title" href="tema/78229-Demanda-impugnación-de-cuaderno-particional?s=67590f2e1195d517622b99a770374600" id="thread_title_78229">Demanda impugnación de cuaderno particional</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/69841-PERIKO?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por PERIKO, el 19/09/2016 12:28">PERIKO</a>,&nbsp;19/09/2016&nbsp;12:28</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78229" onclick="who(78229); return false;" class="understate">1</a></li>
+				<li>Visitas: 2</li>
+			
+			<li class="hidden">Calificación5 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/69841-PERIKO?s=67590f2e1195d517622b99a770374600" title="PERIKO está desconectado"><strong>PERIKO</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/69841-PERIKO?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=69841&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>23/09/2016, <span class="time">12:21</span>
+			<a href="tema/78229-Demanda-impugnación-de-cuaderno-particional?s=67590f2e1195d517622b99a770374600&amp;p=163628#post163628" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit hot" id="thread_5555">
+	<div class="rating5 nonsticky">
+		<div class="threadinfo" title="Gracias de antemano por dedicarme unos minutos de vuestro tiempo.  
+Hace unos 15 días me llamaron de una &quot;agencia de viajes&quot; diciendo que llamaban de...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="estafa bono hotel - ayuda por favor!!" class="title" href="tema/5555-estafa-bono-hotel-ayuda-por-favor!!?s=67590f2e1195d517622b99a770374600" id="thread_title_5555">estafa bono hotel - ayuda por favor!!</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/27502-VictoriaVillar?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por VictoriaVillar, el 16/12/2008 08:09">VictoriaVillar</a>,&nbsp;16/12/2008&nbsp;08:09</span>
+						
+						
+						
+							<dl class="pagination" id="pagination_threadbit_5555">
+								<dt class="label">3 Páginas <span class="separator">&bull;</span></dt>
+								<dd>
+									 <span><a href="tema/5555-estafa-bono-hotel-ayuda-por-favor!!?s=67590f2e1195d517622b99a770374600">1</a></span> <span><a href="tema/5555-estafa-bono-hotel-ayuda-por-favor!!/page2?s=67590f2e1195d517622b99a770374600">2</a></span> <span><a href="tema/5555-estafa-bono-hotel-ayuda-por-favor!!/page3?s=67590f2e1195d517622b99a770374600">3</a></span>
+									
+								</dd>
+							</dl>
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=5555" onclick="who(5555); return false;" class="understate">25</a></li>
+				<li>Visitas: 46,760</li>
+			
+			<li class="hidden">Calificación5 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/70025-samueltorres?s=67590f2e1195d517622b99a770374600" title="samueltorres está desconectado"><strong>samueltorres</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/70025-samueltorres?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=70025&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>15/09/2016, <span class="time">21:50</span>
+			<a href="tema/5555-estafa-bono-hotel-ayuda-por-favor!!?s=67590f2e1195d517622b99a770374600&amp;p=163614#post163614" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78225">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Estimados compañeros, 
+ 
+Tengo una duda referente a la posibilidad o no de abandonar una obra. Un cliente mio, constructor, ha abandonado la...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Abandono obra" class="title" href="tema/78225-Abandono-obra?s=67590f2e1195d517622b99a770374600" id="thread_title_78225">Abandono obra</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/65039-miquelpam?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por miquelpam, el 14/09/2016 16:24">miquelpam</a>,&nbsp;14/09/2016&nbsp;16:24</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78225" onclick="who(78225); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/65039-miquelpam?s=67590f2e1195d517622b99a770374600" title="miquelpam está desconectado"><strong>miquelpam</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/65039-miquelpam?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=65039&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>14/09/2016, <span class="time">16:24</span>
+			<a href="tema/78225-Abandono-obra?s=67590f2e1195d517622b99a770374600&amp;p=163609#post163609" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78211">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Hola amigos: 
+Antes de nada gracias por facilitarnos este foro. 
+Hace un año,compré un furgón para trabajar a un particular y según él estaba en...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="arreglar o no coche vicio oculto pendiente de juicio" class="title" href="tema/78211-arreglar-o-no-coche-vicio-oculto-pendiente-de-juicio?s=67590f2e1195d517622b99a770374600" id="thread_title_78211">arreglar o no coche vicio oculto pendiente de juicio</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/69996-nefernefer?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por nefernefer, el 30/08/2016 18:51">nefernefer</a>,&nbsp;30/08/2016&nbsp;18:51</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78211" onclick="who(78211); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/69996-nefernefer?s=67590f2e1195d517622b99a770374600" title="nefernefer está desconectado"><strong>nefernefer</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/69996-nefernefer?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=69996&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>30/08/2016, <span class="time">18:51</span>
+			<a href="tema/78211-arreglar-o-no-coche-vicio-oculto-pendiente-de-juicio?s=67590f2e1195d517622b99a770374600&amp;p=163591#post163591" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78209">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Hola,quiero exponer mi situación pa ver si alguien me puede ayudar,hace 6 meses, mi ex novia se vino a vivir ella y su hijo de otra relación a vivir...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Como puedo echar a mi ex novia de mi casa" class="title" href="tema/78209-Como-puedo-echar-a-mi-ex-novia-de-mi-casa?s=67590f2e1195d517622b99a770374600" id="thread_title_78209">Como puedo echar a mi ex novia de mi casa</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/69993-Pisiome?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por Pisiome, el 29/08/2016 14:12">Pisiome</a>,&nbsp;29/08/2016&nbsp;14:12</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78209" onclick="who(78209); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/69993-Pisiome?s=67590f2e1195d517622b99a770374600" title="Pisiome está desconectado"><strong>Pisiome</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/69993-Pisiome?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=69993&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>29/08/2016, <span class="time">14:12</span>
+			<a href="tema/78209-Como-puedo-echar-a-mi-ex-novia-de-mi-casa?s=67590f2e1195d517622b99a770374600&amp;p=163589#post163589" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78192">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Intentare abreviar.Buenas tardes quisiera ver a se posible alguna contestación para lo siguiente. 
+Mi hija se caso el pasado mes d junio,le habian...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Posesión de fotos privadas de otros" class="title" href="tema/78192-Posesión-de-fotos-privadas-de-otros?s=67590f2e1195d517622b99a770374600" id="thread_title_78192">Posesión de fotos privadas de otros</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/69967-xelojc?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por xelojc, el 07/08/2016 16:14">xelojc</a>,&nbsp;07/08/2016&nbsp;16:14</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78192" onclick="who(78192); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/69967-xelojc?s=67590f2e1195d517622b99a770374600" title="xelojc está desconectado"><strong>xelojc</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/69967-xelojc?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=69967&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>07/08/2016, <span class="time">16:14</span>
+			<a href="tema/78192-Posesión-de-fotos-privadas-de-otros?s=67590f2e1195d517622b99a770374600&amp;p=163563#post163563" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78191">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="He sido acosado, a puerta cerrada, a voces, de mil formas. Incluso me denunciaron por falsificar documentación. Tengo grabaciones de voz. Me...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Acoso al presidente de unas elecciones sindicales" class="title" href="tema/78191-Acoso-al-presidente-de-unas-elecciones-sindicales?s=67590f2e1195d517622b99a770374600" id="thread_title_78191">Acoso al presidente de unas elecciones sindicales</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/69965-Oironet?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por Oironet, el 04/08/2016 03:10">Oironet</a>,&nbsp;04/08/2016&nbsp;03:10</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78191" onclick="who(78191); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/69965-Oironet?s=67590f2e1195d517622b99a770374600" title="Oironet está desconectado"><strong>Oironet</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/69965-Oironet?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=69965&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>04/08/2016, <span class="time">03:10</span>
+			<a href="tema/78191-Acoso-al-presidente-de-unas-elecciones-sindicales?s=67590f2e1195d517622b99a770374600&amp;p=163562#post163562" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit hot" id="thread_6476">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Buenas. 
+ 
+ Son casi la una de la madrugada y tengo que estar escuchando y notando la vibracion de una lavadora que el hijo de... mi vecino usa casi...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="un vecino que pasa de todo y estamos hartos" class="title" href="tema/6476-un-vecino-que-pasa-de-todo-y-estamos-hartos?s=67590f2e1195d517622b99a770374600" id="thread_title_6476">un vecino que pasa de todo y estamos hartos</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/28471-lestat99?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por lestat99, el 09/03/2009 09:04">lestat99</a>,&nbsp;09/03/2009&nbsp;09:04</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=6476" onclick="who(6476); return false;" class="understate">3</a></li>
+				<li>Visitas: 218</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/69325-marta666?s=67590f2e1195d517622b99a770374600" title="marta666 está desconectado"><strong>marta666</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/69325-marta666?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=69325&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		<li class="left">
+			<a href="http://www.pornoamateurvip.com/" class="siteicon_homepage">
+				Visitar la página de inicio
+			</a>
+		</li>
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>27/07/2016, <span class="time">13:21</span>
+			<a href="tema/6476-un-vecino-que-pasa-de-todo-y-estamos-hartos?s=67590f2e1195d517622b99a770374600&amp;p=163554#post163554" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78167">
+	<div class="rating5 nonsticky">
+		<div class="threadinfo" title="Mi hermano está preparando matrimonio con su pareja actual pero tiene la duda qué tan complicado podría ser preparar un acuerdo prenupcial y como...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="Abogados Caceres para acuerdo prenupcial" class="title" href="tema/78167-Abogados-Caceres-para-acuerdo-prenupcial?s=67590f2e1195d517622b99a770374600" id="thread_title_78167">Abogados Caceres para acuerdo prenupcial</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/68548-Andylopez?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por Andylopez, el 28/06/2016 18:00">Andylopez</a>,&nbsp;28/06/2016&nbsp;18:00</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+									<img src="images/misc/tag.png" alt="abogados cáceres, acuerdo prenupcial" />
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78167" onclick="who(78167); return false;" class="understate">1</a></li>
+				<li>Visitas: 2</li>
+			
+			<li class="hidden">Calificación5 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/68580-rosariocas?s=67590f2e1195d517622b99a770374600" title="rosariocas está desconectado"><strong>rosariocas</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/68580-rosariocas?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=68580&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>14/07/2016, <span class="time">20:11</span>
+			<a href="tema/78167-Abogados-Caceres-para-acuerdo-prenupcial?s=67590f2e1195d517622b99a770374600&amp;p=163537#post163537" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li><li class="threadbit " id="thread_78173">
+	<div class="rating0 nonsticky">
+		<div class="threadinfo" title="Hola...  
+ 
+primero, perdonen por favor las faltas gramáticas y ortográficas - soy Aleman. 
+Segundo, no sabía en cual categoría abrir el tema -...">
+			<!--  status icon block -->
+			<a class="threadstatus" rel="vB::AJAX" ></a>
+
+			<!-- title / author block -->
+			<div class="inner">
+				<h3 class="threadtitle">
+                    	
+
+                    
+
+					
+                                        
+ 					
+                	<a title="tienen internos de la cárcel derecho a comida vegetariana?" class="title" href="tema/78173-tienen-internos-de-la-cárcel-derecho-a-comida-vegetariana?s=67590f2e1195d517622b99a770374600" id="thread_title_78173">tienen internos de la cárcel derecho a comida vegetariana?</a>
+				</h3>
+
+				<div class="threadmeta">				
+					<div class="author">
+												
+						
+							<span class="label">Iniciado por&nbsp;<a href="members/69921-Lobo-Limón?s=67590f2e1195d517622b99a770374600" class="username understate" title="Iniciado por Lobo Limón, el 13/07/2016 23:26">Lobo Limón</a>,&nbsp;13/07/2016&nbsp;23:26</span>
+						
+						
+						
+						<!-- iconinfo -->
+						<div class="threaddetails td">
+							<div class="threaddetailicons">
+								
+								
+								
+								
+								
+								
+							</div>
+						</div>
+					</div>
+					
+				</div>
+
+			</div>
+		</div>
+		
+		<!-- threadstats -->
+		
+		<ul class="threadstats td alt" title="">
+			
+				<li>Respuestas: <a href="misc.php?do=whoposted&amp;t=78173" onclick="who(78173); return false;" class="understate">0</a></li>
+				<li>Visitas: 1</li>
+			
+			<li class="hidden">Calificación0 / 5</li>
+		</ul>
+							
+		<!-- lastpost -->
+		<dl class="threadlastpost td">
+		
+			<dt class="lastpostby hidden">Último mensaje</dt>
+			<dd><div class="popupmenu memberaction">
+	<a class="username offline popupctrl" href="members/69921-Lobo-Limón?s=67590f2e1195d517622b99a770374600" title="Lobo Limón está desconectado"><strong>Lobo Limón</strong></a>
+	<ul class="popupbody popuphover memberaction_body">
+		<li class="left">
+			<a href="members/69921-Lobo-Limón?s=67590f2e1195d517622b99a770374600" class="siteicon_profile">
+				Ver perfil
+			</a>
+		</li>
+		
+		<li class="right">
+			<a href="search.php?s=67590f2e1195d517622b99a770374600&amp;do=finduser&amp;userid=69921&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">
+				Ver mensajes del foro
+			</a>
+		</li>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+	</ul>
+</div></dd>
+			<dd>13/07/2016, <span class="time">23:26</span>
+			<a href="tema/78173-tienen-internos-de-la-cárcel-derecho-a-comida-vegetariana?s=67590f2e1195d517622b99a770374600&amp;p=163531#post163531" class="lastpostdate understate" title="Ir al último mensaje"><img src="images/buttons/lastpost-right.png" alt="Ir al último mensaje" /></a>
+			</dd>
+		
+		</dl>
+
+		
+		
+		
+		
+	</div>
+</li>
+				</ol>
+			
+		</div>
+		<hr />
+
+		<div class="noinlinemod forumfoot">
+		
+		</div>
+
+		<input type="hidden" name="url" value="" />
+		<input type="hidden" name="s" value="67590f2e1195d517622b99a770374600" />
+		<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" name="forumid" value="20" />
+	</form>
+</div>
+
+
+
+<div id="below_threadlist" class="noinlinemod below_threadlist">
+	
+	<div class="threadpagenav">
+		<form action="foro/20-Derecho-Civil-General/page11?s=67590f2e1195d517622b99a770374600" method="get" class="pagination popupmenu nohovermenu">
+<input type="hidden" name="f" value="20" /><input type="hidden" name="s" value="67590f2e1195d517622b99a770374600" />
+	
+		<span><a href="javascript://" class="popupctrl">Página 1 de 341</a></span>
+		
+		
+		
+		<span class="selected"><a href="javascript://" title="Resultados 1 al 20 de 6,819">1</a></span><span><a href="foro/20-Derecho-Civil-General/page2?s=67590f2e1195d517622b99a770374600" title="Mostrar resultados del 21 al 40 de 6,819">2</a></span><span><a href="foro/20-Derecho-Civil-General/page3?s=67590f2e1195d517622b99a770374600" title="Mostrar resultados del 41 al 60 de 6,819">3</a></span><span><a href="foro/20-Derecho-Civil-General/page11?s=67590f2e1195d517622b99a770374600" title="Mostrar resultados del 201 al 220 de 6,819"><!--+10-->11</a></span>
+		
+		<span class="separator">...</span>
+		
+		
+		<span class="prev_next"><a rel="next" href="foro/20-Derecho-Civil-General/page2?s=67590f2e1195d517622b99a770374600" title="Siguiente página - Resultados del 21 al 40 de 6,819"><img src="images/pagination/next-right.png" alt="Siguiente" /></a></span>
+		
+		
+		<span class="first_last"><a href="foro/20-Derecho-Civil-General/page341?s=67590f2e1195d517622b99a770374600" title="Última página - Resultados del 6,801 al 6,819 de 6,819">Último<img src="images/pagination/last-right.png" alt="Último" /></a></span>
+		
+	
+	<ul class="popupbody popuphover">
+		<li class="formsubmit jumptopage"><label>Saltar a página: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value=" Ir " /></li>
+	</ul>
+</form>
+		<div class="clear"></div>
+<div class="navpopupmenu popupmenu nohovermenu" id="forumdisplay_navpopup">
+	
+		<span class="shade">Navegación rápida</span>
+		<a href="foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600" class="popupctrl"><span class="ctrlcontainer">Derecho Civil General</span></a>
+		<a href="foro/20-Derecho-Civil-General#top" class="textcontrol" onclick="document.location.hash='top';return false;">Arriba</a>
+	
+	<ul class="navpopupbody popupbody popuphover">
+		
+		<li class="optionlabel">Zonas del sitio</li>
+		<li><a href="usercp.php?s=67590f2e1195d517622b99a770374600">Configuración</a></li>
+		<li><a href="private.php?s=67590f2e1195d517622b99a770374600">Mensajes privados</a></li>
+		<li><a href="subscription.php?s=67590f2e1195d517622b99a770374600">Suscripciones</a></li>
+		<li><a href="online.php?s=67590f2e1195d517622b99a770374600">Quien está en línea</a></li>
+		<li><a href="search.php?s=67590f2e1195d517622b99a770374600">Buscar en los foros</a></li>
+		<li><a href="forum.php?s=67590f2e1195d517622b99a770374600">Listado de foros</a></li>
+		
+			<li class="optionlabel">Foros</li>
+			
+		
+			
+				<li><a href="foro/5-Derecho-Civil?s=67590f2e1195d517622b99a770374600">Derecho Civil</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/20-Derecho-Civil-General?s=67590f2e1195d517622b99a770374600">Derecho Civil General</a></li>
+			
+		
+			
+				<li><a href="foro/31-Derecho-de-las-Personas?s=67590f2e1195d517622b99a770374600">Derecho de las Personas</a></li>
+			
+		
+			
+				<li><a href="foro/34-Derecho-Inmobiliario?s=67590f2e1195d517622b99a770374600">Derecho Inmobiliario</a></li>
+			
+		
+			
+				<li><a href="foro/39-Foro-legal-empresarial?s=67590f2e1195d517622b99a770374600">Foro legal empresarial</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/48-Patentes-y-Marcas-(Propiedad-Industrial)?s=67590f2e1195d517622b99a770374600">Patentes y Marcas (Propiedad Industrial)</a></li>
+			
+		
+			
+				<li><a href="foro/6-Derecho-General?s=67590f2e1195d517622b99a770374600">Derecho General</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/19-Derecho-General?s=67590f2e1195d517622b99a770374600">Derecho General</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/7-Derecho-Administrativo?s=67590f2e1195d517622b99a770374600">Derecho Administrativo</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/21-Derecho-Administrativo-General?s=67590f2e1195d517622b99a770374600">Derecho Administrativo General</a></li>
+			
+		
+			
+				<li><a href="foro/37-Derecho-de-la-Circulación?s=67590f2e1195d517622b99a770374600">Derecho de la Circulación</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/8-Derecho-Laboral?s=67590f2e1195d517622b99a770374600">Derecho Laboral</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/22-Derecho-Laboral?s=67590f2e1195d517622b99a770374600">Derecho Laboral</a></li>
+			
+		
+			
+				<li><a href="foro/32-Prevención-de-Riesgos-Laborales?s=67590f2e1195d517622b99a770374600">Prevención de Riesgos Laborales</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/9-Derecho-Mercantil?s=67590f2e1195d517622b99a770374600">Derecho Mercantil</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/23-Derecho-Mercantil?s=67590f2e1195d517622b99a770374600">Derecho Mercantil</a></li>
+			
+		
+			
+				<li><a href="foro/47-Concursal?s=67590f2e1195d517622b99a770374600">Concursal</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/10-Derecho-Tributario?s=67590f2e1195d517622b99a770374600">Derecho Tributario</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/24-Derecho-Tributario?s=67590f2e1195d517622b99a770374600">Derecho Tributario</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/11-Derecho-Procesal?s=67590f2e1195d517622b99a770374600">Derecho Procesal</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/25-Derecho-Procesal?s=67590f2e1195d517622b99a770374600">Derecho Procesal</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/12-Derecho-Penal?s=67590f2e1195d517622b99a770374600">Derecho Penal</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/26-Derecho-Penal?s=67590f2e1195d517622b99a770374600">Derecho Penal</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/13-Estudiantes-de-Derecho?s=67590f2e1195d517622b99a770374600">Estudiantes de Derecho</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/27-Estudiantes-de-Derecho?s=67590f2e1195d517622b99a770374600">Estudiantes de Derecho</a></li>
+			
+		
+			
+				<li><a href="foro/33-Tesis-doctorados-y-opositores?s=67590f2e1195d517622b99a770374600">Tesis, doctorados y opositores</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/16-Derecho-Informático-de-las-Telecomunicaciones-e-Internet?s=67590f2e1195d517622b99a770374600">Derecho Informático, de las Telecomunicaciones e Internet</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/28-Internet-Comercio-Electrónico?s=67590f2e1195d517622b99a770374600">Internet , Comercio Electrónico</a></li>
+			
+		
+			
+				<li><a href="foro/38-Derecho-de-las-Telecomunicaciones?s=67590f2e1195d517622b99a770374600">Derecho de las Telecomunicaciones</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/14-Foro-Legal-Empresarial?s=67590f2e1195d517622b99a770374600">Foro Legal Empresarial</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/29-Derecho-Latinoamericano-General?s=67590f2e1195d517622b99a770374600">Derecho Latinoamericano General</a></li>
+			
+		
+			
+				<li><a href="foro/40-Empresas-tecnológicas?s=67590f2e1195d517622b99a770374600">Empresas tecnológicas</a></li>
+			
+		
+			
+				<li><a href="foro/42-Sector-inmobiliario-construcción?s=67590f2e1195d517622b99a770374600">Sector inmobiliario/construcción</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/17-Derecho-del-Medio-Ambiente?s=67590f2e1195d517622b99a770374600">Derecho del Medio Ambiente</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/35-Derecho-del-Medio-Ambiente?s=67590f2e1195d517622b99a770374600">Derecho del Medio Ambiente</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/15-Derecho-de-Extranjería?s=67590f2e1195d517622b99a770374600">Derecho de Extranjería</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/30-Derecho-de-Extranjería?s=67590f2e1195d517622b99a770374600">Derecho de Extranjería</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+			
+				<li><a href="foro/18-Derecho-Internacional?s=67590f2e1195d517622b99a770374600">Derecho Internacional</a>
+					<ol class="d1">
+						
+		
+			
+				<li><a href="foro/36-Derecho-Internacional?s=67590f2e1195d517622b99a770374600">Derecho Internacional</a></li>
+			
+		
+			
+					</ol>
+				</li>
+			
+		
+		
+	</ul>
+</div>
+<div class="clear"></div>
+	</div>
+</div>
+<div id="breadcrumb_two" class="breadcrumb" style="margin-bottom:10px">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=67590f2e1195d517622b99a770374600" ><img src="images/misc/navbit-home.png" alt="Inicio" /></a></li>
+
+		
+   
+	<li class="navbit"><a title="Foros" href="forum.php?s=67590f2e1195d517622b99a770374600">Foros</a></li>
+    
+
+   
+        <li class="navbit"><a title="Foro Derecho Civil" href="foro/5-Derecho-Civil?s=67590f2e1195d517622b99a770374600">Foro Derecho Civil</a></li>
+    
+
+		
+   
+		
+			<li class="navbit lastnavbit"><span title="Foro Derecho Civil General">Foro Derecho Civil General</span></li>
+			
+    
+
+	</ul>
+	<hr />
+</div>
+
+<div id="forum_info_options" class="forum_info block">
+	
+
+	<div id="ad_forum_below_threadlist"><div style="clear: both; display: block; height: auto; width: 910px; margin: 10px auto 30px;">
+												<div style="background-color: #E26D10; clear: both; display: block; color: #FFF; margin: 0px; font: bold 12px Arial,sans-serif; padding: 10px;"><span>CONSULTA A UN ABOGADO</span><span style="float:right;"></span></div>
+												<div style="background-color: #FFFFFF; border: 1px solid #C9C9C9; padding: 5px 10px 10px;">
+												<p style="margin-bottom:10px">Si necesitas m&aacute;s informaci&oacute;n y quieres contactar directamente con un abogado, indica el motivo y pulsa el bot&oacute;n "Contactar".</p>
+													<form style="overflow: hidden; margin-top: 5px; clear: both;" action="#" id="consultaAbogado" name="consultaAbogado">
+														<input type="radio" style="float: left; margin-right: 5px; margin-top: 8px;" name="motivo" value="visita"><span style="float: left; margin-top: 8px;">Concertar una visita </span>
+														<input type="radio" style="float: left; margin-left: 20px; margin-right: 5px; margin-top: 8px;" name="motivo" value="presupuesto"><span style="float: left; margin-top: 8px;">Pedir un presupuesto</span>
+														<a style="float: left; background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAbCAYAAAC9WOV0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAK8AAACvABQqw0mAAAABV0RVh0Q3JlYXRpb24gVGltZQAxNS8yLzEyovmQtgAAAB50RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNS4xqx9I6wAAADlJREFUCJljWHDI/D/TfwZGBqaHX/4zMP1lYGJg+svAyMD09z8jKosJWewfQgxdMZFicPP+MTAyAABNwihv4fYkbAAAAABJRU5ErkJggg==&quot;) repeat-x scroll left top rgb(93, 177, 70); border-color: rgb(58, 145, 72); box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25); color: rgb(255, 255, 255); text-shadow: 0px 1px 2px rgba(35, 96, 49, 0.65); border-radius: 3px 3px 3px 3px; font-size: 14px; font-weight: 600; height: 29px; padding: 0px; display: inline-block; margin: 0px;text-decoration: none; margin-left:75px" href="http://www.elabogado.com/findLawyer/findLawyer.action?utm_source=www.derecho.com&utm_medium=Leads+Derecho&utm_campaign=Consulta+un+Abogado" target="_blank" title="Contactar con abogado">
+															<span style="border-top: 2px solid #9BC252; border-radius: 2px 2px 2px 2px; display: block; height: 27px; line-height: 20px; padding: 1px 10px 0;">Contactar con un abogado</span>
+														</a>
+													</form> 
+												</div>
+											</div></div>
+	
+
+	<div class="collapse">
+		<a class="collapse" id="collapse_forum_options" href="foro/20-Derecho-Civil-General#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+		<h4 class="forumoptiontitle blockhead">Opciones de desplegado de temas</h4>
+	</div>
+	<div id="forum_options" class="forum_info_form_block">
+		<form id="forum_display_options" action="forumdisplay.php" method="get" class="forum_info_form blockbody formcontrols floatcontainer">
+			<input type="hidden" name="s" value="67590f2e1195d517622b99a770374600" />
+			<input type="hidden" name="f" value="20" />
+			<input type="hidden" name="page" value="1" />
+			<input type="hidden" name="pp" value="20" />
+			<div>
+				<div class="options_input_block">
+					<label for="sel_daysprune">Mostrar temas desde...</label>
+					<select class="primary" id="sel_daysprune" name="daysprune">
+						<option value="1" >El último día</option>
+						<option value="2" >Los últimos 2 días</option>
+						<option value="7" >La semana pasada</option>
+						<option value="10" >Los últimos 10 días</option>
+						<option value="14" >Las últimas 2 semanas</option>
+						<option value="30" >El mes pasado</option>
+						<option value="45" >Los últimos 45 días</option>
+						<option value="60" >Los últimos 2 meses</option>
+						<option value="75" >Los últimos 75 días</option>
+						<option value="100" >Los últimos 100 días</option>
+						<option value="365" >El último año</option>
+						<option value="-1" selected="selected">El principio</option>
+					</select>
+					<p class="description">Utiliza este control para limitar la visualización de temas a aquellos más nuevos que el período de tiempo especificado.</p>
+				</div>
+				<div class="options_input_block">
+					<label for="sel_sort">Ordenar temas por:</label>
+					<select class="primary" id="sel_sort" name="sort">
+						<option value="title" >Título de tema</option>
+						<option value="lastpost" selected="selected">Fecha de último mensaje</option>
+						<option value="dateline" >Fecha de inicio de tema</option>
+						<option value="replycount" >Número de respuestas</option>
+						<option value="views" >Número de visitas</option>
+						<option value="postusername" >Autor</option>
+						<option value="voteavg" >Calificación de tema</option>
+					</select>
+					<p class="description">Te permite elegir los datos por los cuales será ordenada la lista de temas.</p>
+				</div>
+				
+				<!-- Group of Radio Buttons -->
+				<div class="options_input_block">
+					<p class="label">Ordenar temas por...</p>
+					<ul class="checkradio group">
+						<li><label for="radio_asc"><input type="radio" name="order" id="radio_asc" value="asc"  /> Orden ascendente</label></li>
+						<li><label for="radio_dsc"><input type="radio" name="order" id="radio_dsc" value="desc" checked="checked" /> Orden descendente</label></li>
+					</ul>
+					<p class="description">Nota: al ordenar por fecha, el 'orden descendente' mostrará primero los resultados más nuevos.</p>
+				</div>
+				
+			</div>
+			<div class="options_input_wrapper">
+				<div class="options_input_block">
+					<div class="group">
+						<input type="submit" class="button" value="Mostrar temas" />
+					</div>
+				</div>
+			</div>
+		</form>
+	</div>
+	
+	<div class="options_block_container">
+	
+		<div class="options_block">
+		<div class="collapse options_correct">
+			<a class="collapse" id="collapse_forum_icon_legend" href="foro/20-Derecho-Civil-General#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+			<h4 class="blockhead">Leyenda de iconos</h4>
+		</div>
+		<div id="forum_icon_legend" class="forum_info_block blockbody formcontrols options_correct">
+			<dl id="icon_legends" class="forum_info_subblock icon_legends">
+				<dt><img src="images/statusicon/thread_new-16.png" alt="Contiene mensajes sin leer" /></dt><dd>Contiene mensajes sin leer</dd>
+				<dt><img src="images/statusicon/thread-16-right.png" alt="No contiene mensajes sin leer" /></dt><dd>No contiene mensajes sin leer</dd>
+				
+				<dt><img src="images/statusicon/thread_hot_new-16.png" alt="Más de 15 respuestas o 150 visitas" /></dt><dd>Tema caliente con mensajes no leídos</dd>
+				<dt><img src="images/statusicon/thread_hot-16.png" alt="Más de 15 respuestas o 150 visitas" /></dt><dd>Tema caliente sin nuevos mensajes</dd>
+				
+				<dt><img src="images/statusicon/thread_lock-16.png" alt="Tema cerrado" /></dt><dd>Tema cerrado</dd>
+				<dt><img src="images/statusicon/thread_dot-16-right.png" alt="Temas que contienen mensajes escritos por ti" /></dt><dd>Has participado en este tema</dd>
+			</dl>
+		</div>
+	</div>
+	<div class="options_block2">
+		<div class="collapse options_correct">
+			<a class="collapse" id="collapse_posting_rules" href="foro/20-Derecho-Civil-General#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>
+			<h4 class="blockhead">Permisos de publicación</h4>
+		</div>
+		<div id="posting_rules" class="forum_info_block blockbody formcontrols floatcontainer options_correct">
+			
+<div id="forumrules" class="info_subblock">
+
+	<ul class="youcandoblock">
+		<li><strong>No puedes</strong> crear nuevos temas</li>
+		<li><strong>No puedes</strong> responder temas</li>
+		<li><strong>No puedes</strong> subir archivos adjuntos</li>
+		<li><strong>No puedes</strong> editar tus mensajes</li>
+		<li>&nbsp;</li>
+	</ul>
+	<div class="bbcodeblock">
+		<ul>
+			<li><a href="misc.php?s=67590f2e1195d517622b99a770374600&amp;do=bbcode" target="_blank">Códigos BB</a> están <strong>Activo</strong></li>
+			<li>Los <a href="misc.php?s=67590f2e1195d517622b99a770374600&amp;do=showsmilies" target="_blank">Emoticonos</a> están <strong>Activo</strong></li>
+			<li>Código <a href="misc.php?s=67590f2e1195d517622b99a770374600&amp;do=bbcode#imgcode" target="_blank">[IMG]</a> está <strong>Activo</strong></li>
+			<li>Código <a href="misc.php?s=67590f2e1195d517622b99a770374600&amp;do=bbcode#videocode" target="_blank">[VIDEO]</a> está <strong>Activo</strong></li>
+			<li>Código HTML está <strong>Inactivo</strong></li>
+		</ul>
+	</div>
+	<p class="rules_link"><a href="misc.php?s=67590f2e1195d517622b99a770374600&amp;do=showrules" target="_blank">Reglas del foro</a></p>
+
+</div>
+
+		</div>
+	</div>
+	
+	</div>
+</div>
+<script type="text/javascript">
+<!--
+vbphrase['doubleclick_forum_markread'] = "Doble clic a este icono para marcar este foro y su contenido como leído";
+init_forum_readmarker_system();
+//-->
+</script>
+
+<div style="clear: left">
+   
+  
+</div>
+
+
+<!-- aqui pie de derecho.com -->
+<footer>
+	<div class="clearfix">
+		<ul class="column link" title="Trámites">
+			<h4><b>Trámites</b></h4>
+			<li><a title="Registro de la Propiedad" href="http://www.derecho.com/xml/registro_propiedad/registro_propiedad.xml" rel="nofollow" >Registro de la Propiedad</a></li>
+			<li><a title="Nota simple" href="http://tienda.derecho.com/nota-simple.html" rel="nofollow">Nota simple</a></li>
+                        <li><a title="Propiedades de alguien" href="http://www.derecho.com/registro-propiedad/propiedades-de-alguien.html" rel="nofollow">Propiedades de alguien</a></li>
+			<li><a title="Registro de marcas" href="http://www.derecho.com/registro_marcas/">Registro de marcas</a></li>
+			<li><a title="Registro Mercantil" href="http://tienda.derecho.com/tramites-online/registro-mercantil">Registro Mercantil</a></li>
+			<li><a title="Informes DGT" href="http://tienda.derecho.com/informe-vehiculo-matricula-dgt.html">Informes DGT</a></li>
+			<li><a title="Certificados" href="http://tienda.derecho.com/servicios-y-gestoria/certificados">Certificados</a></li>
+		</ul>
+		<ul class="column link" title="Contenidos">
+			<h4><b>Contenidos</b></h4>
+			<li><a title="Legislación" href="http://legislacion.derecho.com/">Legislación</a></li>
+			<li><a title="Contratos" href="http://www.derecho.com/contratos/">Contratos</a></li>
+			
+			<li><a title="Artículos" href="http://www.derecho.com/articulos/">Artículos</a></li>
+			<li><a title="Conceptos jurídicos" href="http://www.derecho.com/c/">Conceptos jurídicos</a></li>
+			<li><a title="Foros" href="http://foros.derecho.com/">Foros</a></li>
+		</ul>
+		<ul class="column link" title="Derecho.com">
+			<h4><b>Derecho.com</b></h4>
+			<li><a title="Sobre Derecho.com" href="http://www.derecho.com/sobre-derecho" rel="nofollow">Sobre Derecho.com</a></li>
+			<li><a title="Atención al cliente" href="http://www.derecho.com/xml/atencion.xml" rel="nofollow">Atención al cliente</a></li>
+			<li><a href="mailto:info@derecho.com" title="Contacto" rel="nofollow" name="Contacto" class="mx">Contacto</a></li>
+		</ul>
+		<ul class="column images">
+			<li class="logo_derecho"><a href="http://www.derecho.com/" title="Derecho.com" rel="nofollow"><img alt="Derecho.com" src="http://www.derecho.com/_img/images/derecho-com.png" /></a></li>
+			<li class="cleft"><a href="http://es-es.facebook.com/pages/Derechocom/212281438750" title="Facebook" rel="nofollow external" id="facebook" class="fImg social opacity6"></a></li>
+			<li><a href="https://twitter.com/#!/derechocom" title="Twitter" rel="nofollow external" id="twitter" class="fImg social opacity6"></a></li>
+			<li><a href="https://plus.google.com/u/1/115675042182006836105" title="Google +" rel="nofollow external" id="googlePlus" class="fImg social opacity6"></a></li>
+			<li><a href="http://www.linkedin.com/company/derecho.com/" title="LinkedIn" rel="nofollow external" id="linkedin" class="fImg social opacity6"></a></li>
+			<li class="cleft"><a href="http://www.verisign.es/ssl-certificate/" title="Verisign" rel="nofollow external" id="verisign" class="fImg"></a></li>
+			<li><a href="http://www.confianzaonline.org/" title="Confianza Online" rel="nofollow external" id="confianza" class="fImg"></a></li>
+			<li><a href="http://www.adigital.org/" title="Adigital" rel="nofollow external" id="adigital" class="fImg"></a></li>
+			<li class="cleft mTop5"><a href="https://twitter.com/DerechoCom" class="twitter-follow-button" data-show-count="false" data-lang="es" data-size="large">Seguir a @DerechoCom</a></li>
+		</ul>
+	</div>
+	<div id="otherF" class="mTop15 mRight30 mLeft30 clearfix">
+		<ul id="legal" class="row" title="Legal">		
+			<h5>Legal:</h5>
+			<li><a href="http://www.derecho.com/xml/avisolegal.xml" title="Aviso legal" rel="nofollow">Aviso legal</a></li>
+			<li><a href="http://www.derecho.com/privacidad/" title="Privacidad y cookies" rel="nofollow">Privacidad y cookies</a></li>
+			<li><a href="http://www.derecho.com/xml/cond_generales.xml" title="Condiciones generales" rel="nofollow">Condiciones generales</a></li>
+			<li><a href="mailto:info@derecho.com" title="Contacto" rel="nofollow" name="Contacto" class="mx">Contacto</a></li>
+		</ul>
+		<ul class="row" title="Otros enlaces">
+			<h5>Otros enlaces:</h5>
+			<li><a href="http://www.derecho.com/xml/encontrar-abogado.xml" title="Encontrar un abogado" rel="external">Encontrar un abogado</a></li>
+			<li><a href="http://www.proteccion-datos.com.es/" title="Protección de datos" rel="external">Protección de datos</a></li>
+			<li><a href="http://www.registropropiedad.com/" title="Registro Propiedad" rel="external">Registro Propiedad</a></li>
+			<li><a href="http://www.elabogado.com/" title="Abogados" rel="external">Abogados</a></li>
+			<li><a href="http://usa.elabogado.com/" title="Abogados Estados Unidos" rel="external">Abogados Estados Unidos</a></li>
+			<li><a href="http://www.registrar-marca.com/" title="Registrar marca" rel="external">Registrar marca</a></li>
+			<li><a href="http://www.notasimple.es/" title="Nota Simple" rel="external">Nota Simple</a></li>
+			<li><a href="http://www.registromercantilonline.com/" title="Registro Mercantil" rel="external">Registro Mercantil</a></li>
+			<li><a href="http://www.registro-marcas.es/" title="Registro marcas" rel="external">Registro marcas</a></li>
+		</ul>
+	</div>
+	<div class="clearfix copy">&#169; Derecho.com &amp; Jurisweb.com desde 1997</div>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		<!--[if lt IE 8]>
+	<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+	<script>window.attachEvent("onload",function(){if(window.CFInstall){CFInstall.check({mode:'overlay'})}})</script>
+<![endif]-->
+</footer>
+<!-- fin de pie de derecho.com -->
+</script><script src="http://www.derecho.com/_js/jquery/jquery-latest.pack.js" type="text/javascript">// jquery library</script>
+
+<!--<script src="http://www.derecho.com/_js/jquery/thickbox.js" type="text/javascript">//</script>-->
+
+<!--<script src="http://www.derecho.com/_js/init.js" type="text/javascript">// funciones comunes</script>-->
+<script type="text/javascript" src="/web/20131111012403js_/http://foros.derecho.com/var/generador/scripts_header_footer.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-132715-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+</body>
+</html>
